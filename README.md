@@ -1,16 +1,28 @@
-# todolist
+# Flutter To-Do List App
 
-A new Flutter project.
+A simple To-Do List application built using Flutter and Dart.  
+This app allows users to add and delete daily tasks with a clean and colorful user interface.
 
-## Getting Started
+## Features
+- Add new tasks
+- Delete tasks
+- Simple and user-friendly UI
+- Real-time task list update
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Steps to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Jananisuresh381/flutter-todo-app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Author
+Janani S
+
+
