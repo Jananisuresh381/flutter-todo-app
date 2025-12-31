@@ -22,7 +22,8 @@ This app allows users to add and delete daily tasks with a clean and colorful us
    ```bash
    git clone https://github.com/Jananisuresh381/flutter-todo-app.git
 
-Author
+### Author
 Janani S
+
 
 
